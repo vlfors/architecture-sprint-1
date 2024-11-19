@@ -64,7 +64,6 @@
     cd auth && npm install
     cd ../card && npm install
     cd ../host && npm install
-    cd ../profile && npm install
     ```
 
 3. Запустите каждый микрофронтенд в отдельном терминале:
